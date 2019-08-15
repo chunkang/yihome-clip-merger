@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.724,D:\Doc\YI Video Merger\YIVM.dproj=D:\Doc\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.263,D:\Doc\YI Video Merger\MainRtn.dfm=D:\Doc\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.539,D:\Doc\YI Video Merger\YIHomeClipMerger.dproj=D:\Doc\YI Video Merger\YIVM.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.263,D:\Doc\YI Video Merger\MainRtn.pas=D:\Doc\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.975,=D:\Doc\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.906,=D:\Doc\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
